@@ -4,5 +4,5 @@ compiler:
  - clang
  - gcc
 script:
- - gcc -o risingedgefallingedge risingedgefallingedge.c // we can use gcc instead of clang too
+ - gcc -o risingedgefallingedge risingedgefallingedge.c 
  - ./risingedgefallingedge
